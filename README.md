@@ -8,9 +8,9 @@
 
 * ArrayList 로 인한 단순 배열의 단점 과 장점
 * File i/o 로 인한 데이터 저장
-* stack, heap 의 자료구조는 미숙하지만 기본적인 원리 이해 - 즉, 겍체, static, 클래스 및 패키지 import 이해
+* stack, heap 의 자료구조는 미숙하지만 기본적인 원리 이해 - 즉, 객체, static, 클래스 및 패키지 import 이해
 * Getters / Setters 의 중요성
 * Access Modifiers (접근 제어자)의 이해
 * Abstract class 추상, 상속 클래스의 이해
 * Exception (예외) 의 이해
-* Client를 위한 서비스면 개발 방법 
+* Client를 위한 서비스면 개발 방법
